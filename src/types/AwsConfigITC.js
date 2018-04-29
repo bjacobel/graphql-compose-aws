@@ -8,5 +8,6 @@ export default InputTypeComposer.create({
     accessKeyId: 'String',
     secretAccessKey: 'String',
     region: 'String',
+    sessionToken: 'String',
   },
 });
